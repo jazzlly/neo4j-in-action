@@ -40,10 +40,10 @@
         <module>chapter07/core</module>
         <module>chapter07/spring</module>
         <module>chapter08</module>
-        <module>chapter09/current/simple</module>
+        <!--module>chapter09/current/simple</module>
         <module>chapter09/current/advanced</module>
         <module>chapter09/legacy/simple</module>
-        <module>chapter09/legacy/advanced</module>
+        <module>chapter09/legacy/advanced</module-->
         <module>chapter10/embedded</module>
         <module>chapter10/server</module>
         <module>chapter10/performance-demos-server</module>
